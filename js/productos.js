@@ -44,7 +44,7 @@ const productos = [
     bateria:"100%",
     color:"Grafito",
     precio:"$1.150.000",
-    imagen:"img/productos/iphone13pro.png",
+    imagen:"img/productos/13pro.jpeg",
     descripcion:"Versión Pro con excelente rendimiento y cámara profesional."
 },
 
@@ -56,7 +56,7 @@ const productos = [
     bateria:"100%",
     color:"Morado",
     precio:"$1.100.000",
-    imagen:"img/productos/iphone14.png",
+    imagen:"img/productos/14n.jpeg",
     descripcion:"iPhone 14 nuevo, garantía y envío seguro."
 },
 
@@ -68,7 +68,7 @@ const productos = [
     bateria:"100%",
     color:"Negro Espacial",
     precio:"$1.350.000",
-    imagen:"img/productos/iphone14pro.png",
+    imagen:"img/productos/14p.jpeg",
     descripcion:"Dynamic Island, cámaras profesionales y excelente autonomía."
 },
 
@@ -80,7 +80,7 @@ const productos = [
     bateria:"100%",
     color:"Azul",
     precio:"$1.750.000",
-    imagen:"img/productos/iphone15.png",
+    imagen:"img/productos/15n.jpeg",
     descripcion:"Nuevo puerto USB-C y procesador A16 Bionic."
 },
 
@@ -92,7 +92,7 @@ const productos = [
     bateria:"100%",
     color:"Titanio Natural",
     precio:"$2.050.000",
-    imagen:"img/productos/iphone15pro.png",
+    imagen:"img/productos/15p1.jpeg",
     descripcion:"Construcción en titanio y chip A17 Pro."
 },
 
@@ -104,7 +104,7 @@ const productos = [
     bateria:"100%",
     color:"Ultramarino",
     precio:"$2.350.000",
-    imagen:"img/productos/iphone16.png",
+    imagen:"img/productos/16azul2.jpeg",
     descripcion:"La nueva generación de iPhone con rendimiento mejorado."
 },
 
@@ -116,7 +116,7 @@ const productos = [
     bateria:"100%",
     color:"Titanio Negro",
     precio:"$2.600.000",
-    imagen:"img/productos/iphone16pro.png",
+    imagen:"img/productos/16p1.jpeg",
     descripcion:"La máxima experiencia Apple con cámaras profesionales."
 }
 
