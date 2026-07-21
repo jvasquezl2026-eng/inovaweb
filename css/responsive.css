@@ -281,23 +281,3 @@ width:60px;
 
 }
 
-/* PRUEBA */
-
-#lista-productos{
-    display:grid !important;
-    grid-template-columns:1fr !important;
-    visibility:visible !important;
-    opacity:1 !important;
-}
-
-.producto{
-    display:block !important;
-    opacity:1 !important;
-    visibility:visible !important;
-}
-
-.catalogo{
-    display:block !important;
-    position:relative !important;
-    z-index:9999 !important;
-}
