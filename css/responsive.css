@@ -41,6 +41,11 @@ CELULAR
 
 @media (max-width:768px){
 
+/* Corregido: Desactivar el fondo decorativo gigante que causa el espacio blanco lateral */
+.hero::before{
+    display: none;
+}
+
 .hero{
     padding:30px 20px;
 }

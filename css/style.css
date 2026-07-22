@@ -31,6 +31,7 @@ box-sizing:border-box;
 html{
 
 scroll-behavior:smooth;
+overflow-x: hidden; /* Corregido: Evita desplazamiento horizontal */
 
 }
 
@@ -39,7 +40,8 @@ body{
 font-family:'Poppins',sans-serif;
 background:var(--blanco);
 color:var(--negro);
-overflow-x:hidden;
+overflow-x:hidden; /* Corregido: Elimina espacio en blanco lateral */
+width: 100%;
 
 }
 
@@ -73,6 +75,7 @@ margin:auto;
 section{
 
 padding:100px 0;
+overflow: hidden; /* Corregido: Mantiene las animaciones dentro de los límites */
 
 }
 

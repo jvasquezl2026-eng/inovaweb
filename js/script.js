@@ -221,7 +221,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     },{
 
-        threshold:.15
+        threshold:.05 /* Corregido: Umbral reducido para mejor respuesta en móviles */
 
     });
 
