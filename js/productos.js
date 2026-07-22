@@ -6,7 +6,7 @@ const productos = [
     estado:"Reacondicionado",
     capacidad:"128 GB",
     bateria:"100%",
-    color:"Negro",
+    color:"Blanco",
     precio:"$500.000",
     imagen:"img/productos/iphone11.jpeg",
     descripcion:"iPhone 11 reacondicionado, libre para cualquier operador, batería al 100% y garantía."
@@ -27,7 +27,7 @@ const productos = [
 {
     id:3,
     nombre:"iPhone 13",
-    estado:"Nuevo",
+    estado:"Reacondicionado",
     capacidad:"128 GB",
     bateria:"99%",
     color:"Azul",
@@ -51,10 +51,10 @@ const productos = [
 {
     id:5,
     nombre:"iPhone 14",
-    estado:"Nuevo",
+    estado:"Reacondicionado",
     capacidad:"128 GB",
     bateria:"100%",
-    color:"Morado",
+    color:"blanco",
     precio:"$1.100.000",
     imagen:"img/productos/14n.jpeg",
     descripcion:"iPhone 14 nuevo, garantía y envío seguro."
@@ -63,10 +63,10 @@ const productos = [
 {
     id:6,
     nombre:"iPhone 14 Pro",
-    estado:"Nuevo",
+    estado:"Reacondicionado",
     capacidad:"256 GB",
     bateria:"100%",
-    color:"Negro Espacial",
+    color:"Morado",
     precio:"$1.350.000",
     imagen:"img/productos/14p.jpeg",
     descripcion:"Dynamic Island, cámaras profesionales y excelente autonomía."
@@ -75,10 +75,10 @@ const productos = [
 {
     id:7,
     nombre:"iPhone 15",
-    estado:"Nuevo",
+    estado:"Reacondicionado",
     capacidad:"128 GB",
     bateria:"100%",
-    color:"Azul",
+    color:"Negro",
     precio:"$1.750.000",
     imagen:"img/productos/15n.jpeg",
     descripcion:"Nuevo puerto USB-C y procesador A16 Bionic."
@@ -87,7 +87,7 @@ const productos = [
 {
     id:8,
     nombre:"iPhone 15 Pro",
-    estado:"Nuevo",
+    estado:"Reacondicionado",
     capacidad:"256 GB",
     bateria:"100%",
     color:"Titanio Natural",
@@ -99,7 +99,7 @@ const productos = [
 {
     id:9,
     nombre:"iPhone 16",
-    estado:"Nuevo",
+    estado:"Reacondicionado",
     capacidad:"128 GB",
     bateria:"100%",
     color:"Ultramarino",
@@ -111,10 +111,10 @@ const productos = [
 {
     id:10,
     nombre:"iPhone 16 Pro",
-    estado:"Nuevo",
+    estado:"Reacondiccionado",
     capacidad:"256 GB",
     bateria:"100%",
-    color:"Titanio Negro",
+    color:"Grafito",
     precio:"$2.600.000",
     imagen:"img/productos/16p1.jpeg",
     descripcion:"La máxima experiencia Apple con cámaras profesionales."
